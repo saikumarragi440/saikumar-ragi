@@ -1,0 +1,68 @@
+header span{
+     text-align: center;
+      border-radius: 10px; 
+       border-style:double;
+       border-color: snow;
+    background-color: pink; 
+       padding-top: 30Px;
+        color:black;
+         padding-bottom: 30px;
+          padding-left: 20%; 
+          display: flex;
+           font-weight: bolder;
+            font-size: 35px;
+             font-family: "Segoe UI" ,"Script MT Bold";
+             }
+            div h3{
+                  text-emphasis-color: blue;
+             }
+             header img{
+                  border-radius: 500px;
+                   float: left;
+                   }
+                   ul li{
+                        list-style: none;
+                         float: left;
+                          margin: 0;
+                           color: white; 
+                           width: 100px;
+                            height: 30px;
+                             text-align: center; 
+                             padding-top: 10px;
+                             } 
+                             ul li:hover{
+                                  background-color: dodgerblue;
+                                  }
+                                  a{ color:white; text-decoration: none;
+                                       }
+                                       nav{
+                                            background-color:orange; 
+                                            height: 40px;
+                                            }
+                                            article{
+                                                 border: 2px solid blue;
+                                                  padding:5px;
+                                                   margin:5px;
+                                                    border-radius: 15px;
+                                                    }
+                                                    footer{ 
+                                                        float: bottom;
+                                                         background-color: lightblue;
+                                                          color: green; 
+                                                          height: 80px;
+                                                           margin: 0px;
+                                                            text-align: center;
+                                                             padding-top: 15px;
+                                                             }
+                                                             .main{
+                                                                  height:25%; width: 100%;
+                                                                   }
+                                                                   .one{
+                                                                        width: 50%;
+                                                                         float: left; 
+                                                                         position: absolute;
+                                                                         }
+                                                                         .two{
+                                                                               width: 50%; float:right; position: relative;
+                                                                         }
+                                                                         
